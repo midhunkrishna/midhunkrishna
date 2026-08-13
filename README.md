@@ -4,6 +4,8 @@ Most Recently: Staff Software Engineer at Nuna.
 
 I build developer tools and platforms, and lately, context engines for coding agents (shaktiman) and better interfaces for working with llms(marginalia). 
 Before that, a decade of Ruby, distributed systems and OSS contributions to Ruby ecosystem.
+
+I write occasionally at [midhunkrishna.in](https://midhunkrishna.in)
 <!--
 **midhunkrishna/midhunkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
